@@ -289,9 +289,11 @@ class RestaurantTableViewController: UITableViewController, NSFetchedResultsCont
     }
     
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        
         if segue.identifier == "showRestaurant" {
             if let indexPath = self.tableView.indexPathForSelectedRow() {
                 let destinationController = segue.destinationViewController as RestaurantViewController
+                destinationController.hidesBottomBarWhenPushed = true
                 destinationController.restaurant = searchController.active ? searchResults[indexPath.row] : self.restaurants[indexPath.row]
             }
         }

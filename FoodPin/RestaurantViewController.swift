@@ -88,6 +88,7 @@ class RestaurantViewController: UIViewController, UITableViewDataSource, UITable
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         if segue.identifier == "showMap" {
             let destinationController = segue.destinationViewController as MapViewController
+            destinationController.hidesBottomBarWhenPushed = true
             destinationController.restaurant = restaurant
         }
     }
