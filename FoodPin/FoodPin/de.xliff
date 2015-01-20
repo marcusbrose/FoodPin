@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FoodPin/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.0.1" build-num="6A317"/>
+    </header>
+    <body>
+      <trans-unit id="1Qd-JZ-DfP.normalTitle">
+        <source>Get Started</source>
+        <target>Erste Schritte</target>
+        <note>Class = "IBUIButton"; normalTitle = "Get Started"; ObjectID = "1Qd-JZ-DfP";</note>
+      </trans-unit>
+      <trans-unit id="2Us-Ub-UiD.normalTitle">
+        <source>Yes</source>
+        <target>Ja</target>
+        <note>Class = "IBUIButton"; normalTitle = "Yes"; ObjectID = "2Us-Ub-UiD";</note>
+      </trans-unit>
+      <trans-unit id="4Cw-c5-hxN.text">
+        <source>HAVE YOU BEEN HERE</source>
+        <target>Warst du schon hier</target>
+        <note>Class = "IBUILabel"; text = "HAVE YOU BEEN HERE"; ObjectID = "4Cw-c5-hxN";</note>
+      </trans-unit>
+      <trans-unit id="4iB-cf-tJ4.text">
+        <source>Heading</source>
+        <note>Class = "IBUILabel"; text = "Heading"; ObjectID = "4iB-cf-tJ4";</note>
+      </trans-unit>
+      <trans-unit id="4oX-hE-Jks.text">
+        <source>You've dined here. What did you think?</source>
+        <target>Sie haben hier zu Abend gegessen. Was haben Sie gedacht?</target>
+        <note>Class = "IBUILabel"; text = "You've dined here. What did you think?"; ObjectID = "4oX-hE-Jks";</note>
+      </trans-unit>
+      <trans-unit id="7FV-w1-Nhe.text">
+        <source>Value</source>
+        <note>Class = "IBUILabel"; text = "Value"; ObjectID = "7FV-w1-Nhe";</note>
+      </trans-unit>
+      <trans-unit id="8af-wa-fER.title">
+        <source>Food Pin</source>
+        <note>Class = "IBUINavigationItem"; title = "Food Pin"; ObjectID = "8af-wa-fER";</note>
+      </trans-unit>
+      <trans-unit id="9qt-5y-QtU.title">
+        <source>New Restaurant</source>
+        <target>neues Restaurant</target>
+        <note>Class = "IBUINavigationItem"; title = "New Restaurant"; ObjectID = "9qt-5y-QtU";</note>
+      </trans-unit>
+      <trans-unit id="B2M-ux-Cx3.title">
+        <source>Feed</source>
+        <target>Feed</target>
+        <note>Class = "IBUITabBarItem"; title = "Feed"; ObjectID = "B2M-ux-Cx3";</note>
+      </trans-unit>
+      <trans-unit id="Dyq-cl-F0a.text">
+        <source>TYPE</source>
+        <target>ART</target>
+        <note>Class = "IBUILabel"; text = "TYPE"; ObjectID = "Dyq-cl-F0a";</note>
+      </trans-unit>
+      <trans-unit id="ENb-Hz-KDQ.text">
+        <source>Location</source>
+        <target>Lage</target>
+        <note>Class = "IBUILabel"; text = "Location"; ObjectID = "ENb-Hz-KDQ";</note>
+      </trans-unit>
+      <trans-unit id="H5F-Yc-vqe.normalTitle">
+        <source>Visit our website</source>
+        <target>Besuchen Sie unsere Website</target>
+        <note>Class = "IBUIButton"; normalTitle = "Visit our website"; ObjectID = "H5F-Yc-vqe";</note>
+      </trans-unit>
+      <trans-unit id="Kfk-MR-HES.text">
+        <source>LOCATION</source>
+        <target>LAGE</target>
+        <note>Class = "IBUILabel"; text = "LOCATION"; ObjectID = "Kfk-MR-HES";</note>
+      </trans-unit>
+      <trans-unit id="LlQ-T9-Vod.placeholder">
+        <source>Restaurant Location</source>
+        <target>Restaurant Lage</target>
+        <note>Class = "IBUITextField"; placeholder = "Restaurant Location"; ObjectID = "LlQ-T9-Vod";</note>
+      </trans-unit>
+      <trans-unit id="Q0C-Pg-iIQ.text">
+        <source>NAME</source>
+        <target>NAME</target>
+        <note>Class = "IBUILabel"; text = "NAME"; ObjectID = "Q0C-Pg-iIQ";</note>
+      </trans-unit>
+      <trans-unit id="Q08-gg-Qz0.text">
+        <source>Got Questions?</source>
+        <target>Noch Fragen?</target>
+        <note>Class = "IBUILabel"; text = "Got Questions?"; ObjectID = "Q08-gg-Qz0";</note>
+      </trans-unit>
+      <trans-unit id="ROM-8X-MRU.title">
+        <source>Feed</source>
+        <target>Feed</target>
+        <note>Class = "IBUINavigationItem"; title = "Feed"; ObjectID = "ROM-8X-MRU";</note>
+      </trans-unit>
+      <trans-unit id="SuF-Hi-Qye.text">
+        <source>Label</source>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "SuF-Hi-Qye";</note>
+      </trans-unit>
+      <trans-unit id="Tgd-o8-c89.title">
+        <source>About</source>
+        <target>über</target>
+        <note>Class = "IBUINavigationItem"; title = "About"; ObjectID = "Tgd-o8-c89";</note>
+      </trans-unit>
+      <trans-unit id="WIv-DN-rOY.normalTitle">
+        <source>No</source>
+        <target>nicht</target>
+        <note>Class = "IBUIButton"; normalTitle = "No"; ObjectID = "WIv-DN-rOY";</note>
+      </trans-unit>
+      <trans-unit id="Y1Z-og-ut6.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "IBUILabel"; text = "Name"; ObjectID = "Y1Z-og-ut6";</note>
+      </trans-unit>
+      <trans-unit id="bY2-Uv-3e9.normalTitle">
+        <source>Contact Us</source>
+        <target>kontaktieren Sie uns</target>
+        <note>Class = "IBUIButton"; normalTitle = "Contact Us"; ObjectID = "bY2-Uv-3e9";</note>
+      </trans-unit>
+      <trans-unit id="eaf-Pa-ITO.text">
+        <source>Type</source>
+        <target>Art</target>
+        <note>Class = "IBUILabel"; text = "Type"; ObjectID = "eaf-Pa-ITO";</note>
+      </trans-unit>
+      <trans-unit id="igf-bP-Jhh.text">
+        <source>You're just a tap away</source>
+        <target>Sie sind nur einen Fingertipp entfernt</target>
+        <note>Class = "IBUILabel"; text = "You're just a tap away"; ObjectID = "igf-bP-Jhh";</note>
+      </trans-unit>
+      <trans-unit id="j8A-Od-Ouh.text">
+        <source>Field</source>
+        <note>Class = "IBUILabel"; text = "Field"; ObjectID = "j8A-Od-Ouh";</note>
+      </trans-unit>
+      <trans-unit id="kfU-jO-ECG.placeholder">
+        <source>Restaurant Type</source>
+        <target>Restaurant Type</target>
+        <note>Class = "IBUITextField"; placeholder = "Restaurant Type"; ObjectID = "kfU-jO-ECG";</note>
+      </trans-unit>
+      <trans-unit id="piC-2j-ea0.placeholder">
+        <source>Restaurant Name</source>
+        <target>Restaurant Name</target>
+        <note>Class = "IBUITextField"; placeholder = "Restaurant Name"; ObjectID = "piC-2j-ea0";</note>
+      </trans-unit>
+      <trans-unit id="wld-xE-9KW.normalTitle">
+        <source>Map</source>
+        <target>Karte</target>
+        <note>Class = "IBUIButton"; normalTitle = "Map"; ObjectID = "wld-xE-9KW";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.0.1" build-num="6A317"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.0.1" build-num="6A317"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>stornieren</target>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>löschen</target>
+        <note>For delete</note>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target>Email</target>
+        <note>For sharing on Email</note>
+      </trans-unit>
+      <trans-unit id="Facebook">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>For sharing on Facebook</note>
+      </trans-unit>
+      <trans-unit id="Share">
+        <source>Share</source>
+        <target>Aktie</target>
+        <note>For social sharing</note>
+      </trans-unit>
+      <trans-unit id="Share using">
+        <source>Share using</source>
+        <target>teilen mit</target>
+        <note>For social sharing</note>
+      </trans-unit>
+      <trans-unit id="Twitter">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>For sharing on Twitter</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPinTests/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.0.1" build-num="6A317"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

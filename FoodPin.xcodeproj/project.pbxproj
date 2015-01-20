@@ -16,6 +16,12 @@
 		2C3B2C6E1A67E6D600DAD932 /* FoodPin.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B2C6C1A67E6D600DAD932 /* FoodPin.xcdatamodeld */; };
 		2C3B2C701A680F0B00DAD932 /* PageContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B2C6F1A680F0B00DAD932 /* PageContentViewController.swift */; };
 		2C3B2C741A68131100DAD932 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B2C731A68131100DAD932 /* PageViewController.swift */; };
+		2C3B2C761A6D07D600DAD932 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B2C751A6D07D600DAD932 /* AboutViewController.swift */; };
+		2C3B2C781A6D100300DAD932 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3B2C771A6D100300DAD932 /* WebViewController.swift */; };
+		2C3B2C7A1A6E6A8D00DAD932 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C3B2C791A6E6A8D00DAD932 /* MessageUI.framework */; };
+		2C3B2C831A6E78D500DAD932 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2C3B2C851A6E78D500DAD932 /* InfoPlist.strings */; };
+		2C3B2C891A6E78D700DAD932 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2C3B2C8B1A6E78D700DAD932 /* InfoPlist.strings */; };
+		2C3B2C911A6E79AC00DAD932 /* aboutfoodpin.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C3B2C931A6E79AC00DAD932 /* aboutfoodpin.png */; };
 		2C73D37C1A65161000822665 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C73D37B1A65161000822665 /* AppDelegate.swift */; };
 		2C73D3831A65161000822665 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C73D3821A65161000822665 /* Images.xcassets */; };
 		2C73D3861A65161000822665 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C73D3841A65161000822665 /* LaunchScreen.xib */; };
@@ -47,6 +53,16 @@
 		2C3B2C6D1A67E6D600DAD932 /* FoodPin.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FoodPin.xcdatamodel; sourceTree = "<group>"; };
 		2C3B2C6F1A680F0B00DAD932 /* PageContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageContentViewController.swift; sourceTree = "<group>"; };
 		2C3B2C731A68131100DAD932 /* PageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PageViewController.swift; path = ../PageViewController.swift; sourceTree = "<group>"; };
+		2C3B2C751A6D07D600DAD932 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		2C3B2C771A6D100300DAD932 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		2C3B2C791A6E6A8D00DAD932 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		2C3B2C841A6E78D500DAD932 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2C3B2C861A6E78D600DAD932 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		2C3B2C8A1A6E78D700DAD932 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2C3B2C8C1A6E78E500DAD932 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		2C3B2C8D1A6E78E500DAD932 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		2C3B2C8E1A6E78E500DAD932 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		2C3B2C921A6E79AC00DAD932 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/aboutfoodpin.png; sourceTree = "<group>"; };
 		2C73D3761A65161000822665 /* FoodPin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodPin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C73D37A1A65161000822665 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C73D37B1A65161000822665 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C3B2C7A1A6E6A8D00DAD932 /* MessageUI.framework in Frameworks */,
 				2C3B2C341A669F0900DAD932 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -84,6 +101,7 @@
 		2C73D36D1A65161000822665 = {
 			isa = PBXGroup;
 			children = (
+				2C3B2C791A6E6A8D00DAD932 /* MessageUI.framework */,
 				2C3B2C331A669F0900DAD932 /* MapKit.framework */,
 				2C73D3781A65161000822665 /* FoodPin */,
 				2C73D38E1A65161000822665 /* FoodPinTests */,
@@ -103,11 +121,14 @@
 		2C73D3781A65161000822665 /* FoodPin */ = {
 			isa = PBXGroup;
 			children = (
+				2C3B2C931A6E79AC00DAD932 /* aboutfoodpin.png */,
 				2C73D37B1A65161000822665 /* AppDelegate.swift */,
 				2C3B2C6C1A67E6D600DAD932 /* FoodPin.xcdatamodeld */,
 				2C3B2C351A66A1EE00DAD932 /* MapViewController.swift */,
 				2C3B2C311A66992E00DAD932 /* ShareViewController.swift */,
 				2C3B2C371A66BB6100DAD932 /* Main.storyboard */,
+				2C3B2C771A6D100300DAD932 /* WebViewController.swift */,
+				2C3B2C751A6D07D600DAD932 /* AboutViewController.swift */,
 				2C3B2C731A68131100DAD932 /* PageViewController.swift */,
 				2C3B2C6F1A680F0B00DAD932 /* PageContentViewController.swift */,
 				2C3B2C391A66BDE400DAD932 /* AddTableViewController.swift */,
@@ -127,6 +148,7 @@
 		2C73D3791A65161000822665 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2C3B2C8B1A6E78D700DAD932 /* InfoPlist.strings */,
 				2C73D37A1A65161000822665 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -144,6 +166,7 @@
 		2C73D38F1A65161000822665 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2C3B2C851A6E78D500DAD932 /* InfoPlist.strings */,
 				2C73D3901A65161000822665 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -236,7 +259,9 @@
 			files = (
 				2C3B2C381A66BB6100DAD932 /* Main.storyboard in Resources */,
 				2C73D3861A65161000822665 /* LaunchScreen.xib in Resources */,
+				2C3B2C911A6E79AC00DAD932 /* aboutfoodpin.png in Resources */,
 				2C73D3831A65161000822665 /* Images.xcassets in Resources */,
+				2C3B2C891A6E78D700DAD932 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,6 +269,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C3B2C831A6E78D500DAD932 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,8 +290,10 @@
 				2C73D39E1A651A0400822665 /* RestaurantTableViewCell.swift in Sources */,
 				2C3B2C321A66992E00DAD932 /* ShareViewController.swift in Sources */,
 				2C3B2C701A680F0B00DAD932 /* PageContentViewController.swift in Sources */,
+				2C3B2C761A6D07D600DAD932 /* AboutViewController.swift in Sources */,
 				2C3B2C741A68131100DAD932 /* PageViewController.swift in Sources */,
 				2C73D39C1A65166F00822665 /* RestaurantTableViewController.swift in Sources */,
+				2C3B2C781A6D100300DAD932 /* WebViewController.swift in Sources */,
 				2C3B2C3A1A66BDE400DAD932 /* AddTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,10 +317,38 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		2C3B2C851A6E78D500DAD932 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C3B2C841A6E78D500DAD932 /* de */,
+				2C3B2C8C1A6E78E500DAD932 /* zh-Hant */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2C3B2C8B1A6E78D700DAD932 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C3B2C8A1A6E78D700DAD932 /* de */,
+				2C3B2C8E1A6E78E500DAD932 /* zh-Hant */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2C3B2C931A6E79AC00DAD932 /* aboutfoodpin.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C3B2C921A6E79AC00DAD932 /* Base */,
+			);
+			name = aboutfoodpin.png;
+			sourceTree = "<group>";
+		};
 		2C73D3841A65161000822665 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
 				2C73D3851A65161000822665 /* Base */,
+				2C3B2C861A6E78D600DAD932 /* de */,
+				2C3B2C8D1A6E78E500DAD932 /* zh-Hant */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
